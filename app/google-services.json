@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124001511453",
+    "firebase_url": "https://locationrecorder-cadf0.firebaseio.com",
+    "project_id": "locationrecorder-cadf0",
+    "storage_bucket": "locationrecorder-cadf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124001511453:android:8cc7783d9026752a",
+        "android_client_info": {
+          "package_name": "com.patelheggere.locationrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124001511453-qq7t6paa97mjfhde1uiftmp56an2dq4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patelheggere.locationrecorder",
+            "certificate_hash": "31f193b39e94e6b1d609010f4fe9be4db314c4a9"
+          }
+        },
+        {
+          "client_id": "124001511453-8vmve7uuc6l4kq8t5s6s50lfsa6clp5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk5FuUswfnbwUpHd6yzF-D6oJ1O0rph54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124001511453-8vmve7uuc6l4kq8t5s6s50lfsa6clp5t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

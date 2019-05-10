@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocationRecorder</string>
+    <string name="start_rec">Start Recroding Location</string>
+    <string name="stop_rec">Stop Recording Location</string>
+</resources>
